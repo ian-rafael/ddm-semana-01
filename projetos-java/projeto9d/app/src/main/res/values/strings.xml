@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sorteio</string>
+    <string name="min">Mín.</string>
+    <string name="result_default_text">Nenhum número selecionado</string>
+    <string name="sortear">Sortear</string>
+    <string name="intervalo">Entre com o intervalo</string>
+    <string name="max">Máx.</string>
+    <string name="preencher">Preencha os campos Mín. e Máx.</string>
+</resources>

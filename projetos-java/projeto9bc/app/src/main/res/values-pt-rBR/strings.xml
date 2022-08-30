@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projeto9BC</string>
+    <string name="hello">OláMundo!</string>
+    <string name="clicks">Cliques</string>
+</resources>
